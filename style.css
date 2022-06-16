@@ -1,0 +1,16 @@
+body {
+  background-color: #333647;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.text {
+  margin-top: 45vh;
+  margin-left: 30%;
+  font-size: 3rem;
+}
+
+#clock {
+  font-size: 10rem;
+  text-align: center;
+}
